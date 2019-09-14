@@ -12,7 +12,10 @@ Under Chrome go to: `Settings -> Advanced -> Privacy and security -> Site settin
 
 ## How to play:
 A - turn left
+
 W - move forward
+
 D - turn right
+
 SPACE - shoot bullets
 

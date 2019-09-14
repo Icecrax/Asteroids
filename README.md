@@ -19,5 +19,5 @@ D - turn right
 
 SPACE - shoot bullets
 
-<img scr = "game.png">
+![](game.png)
 

@@ -19,5 +19,5 @@ D - turn right
 
 SPACE - shoot bullets
 
-![](game.png)
+![](image.png)
 

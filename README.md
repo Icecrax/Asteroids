@@ -1,5 +1,5 @@
 # What I learned:
-* Writing first program on javascript
+* Writing first program in javascript
 
 # Task:
 Creating a version of the game `asteroids`.
